@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box 
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-width: 800px;
+    position: relative;
+    min-height: 100%;
+}
